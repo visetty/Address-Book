@@ -19,3 +19,8 @@
 .container h2 {
   font-weight: bold;
 }
+
+.btn {
+  background-color: green;
+  font-weight: bold;
+}
